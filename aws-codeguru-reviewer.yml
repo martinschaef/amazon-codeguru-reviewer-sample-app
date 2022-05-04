@@ -19,3 +19,5 @@ version: 1.0
 excludeFiles:
 - 'src/some-package/**'
 - 'src/some-*/*.json'
+
+
